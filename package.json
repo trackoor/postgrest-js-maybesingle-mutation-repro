@@ -1,0 +1,11 @@
+{
+  "name": "postgrest-js-maybesingle-mutation-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "repro": "node repro.mjs"
+  },
+  "dependencies": {
+    "@supabase/postgrest-js": "2.119.0"
+  }
+}
